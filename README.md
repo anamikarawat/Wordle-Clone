@@ -18,3 +18,5 @@ This will start the backend on http://localhost:8000.
 
 copy the path to your index.html file
 Copy the path to this file and paste it in your browser to see the game and play.
+
+# Use this link to open the game: https://anamikarawat.github.io/Wordle-Clone/
