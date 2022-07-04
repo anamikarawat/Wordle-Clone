@@ -1,19 +1,19 @@
 # Wordle-Clone- using JavaScript
 A Game of Wordle with the benefit of 2x API from RapidAPI
 
-#Getting Started
+# Getting Started
 To start this project please go to RapidAPI to sign up for the APIs.
 
-#.env
+# .env
 Now create a .env file in the root of your project with the following:
 
 RAPID_API_KEY={your_rapid_api_key}
 To run this project please type the following commands:
 
-#npm i
+# npm i
 This will install all the necessary dependencies.
 
-#npm run start:backend
+# npm run start:backend
 This will start the backend on http://localhost:8000.
 
 copy the path to your index.html file
